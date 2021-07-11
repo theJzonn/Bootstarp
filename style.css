@@ -3,3 +3,16 @@
     content: '';
     height: 60px;
 }**/
+
+.progress {
+    border: 1px solid #4BBF73;
+    border-radius: 2px;
+    height: 25px;
+    color: #f8f9fa !important;
+    background-color: #f8f9fa !important;
+}
+
+.progress-bar {
+    font-weight: 800;
+    letter-spacing: 1px;
+}
